@@ -10,4 +10,3 @@ else
     npx playwright test --headed
 fi
 
-npx playwright show-report
